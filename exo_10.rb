@@ -7,7 +7,7 @@ b=0
 while user_years_count <= a
 
     if b == 0
-        puts "En #{user_years_count} tu viens juste de née"
+        puts "En #{user_years_count} tu viens juste de naître."
         b=b+1
         user_years_count = user_years_count + 1 
     else
